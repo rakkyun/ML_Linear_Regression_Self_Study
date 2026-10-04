@@ -1,4 +1,4 @@
-# Machine Learning - Linear Regression Self-Study Practicals
+# Machine Learning Programs
 
 A set of Jupyter notebooks covering the main regression topics from Unit 3 of the MCA Machine Learning syllabus.
 
